@@ -12,6 +12,8 @@ I am not responsible if you redistribute this bot anywhere. This is just meant t
 
 I have left out lot's of files needed for this bot to work correctly. If you understand programming enough to make it work then you are liable for the damage you cause to Trovo for using this bot.
 
+All code placed in one file in order to keep it portable.
+
 # How do bots function?
 
 ## Proxy
