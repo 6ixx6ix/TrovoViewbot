@@ -1,5 +1,27 @@
 # TrovoViewbot
 
+## UPDATE
+
+This type of bot has been fixed for Trovo. I have recieved lot's of feedback about the bot. 
+
+What has been detected:
+
+  - Selenium
+  - Headless mode
+  - Cheap proxies (webshare,proxyscrape etc)
+  - Accounts without a real email(gmail,icloud,hotmail...) + no phone number.
+
+New ways to circumvent bot security:
+  
+  - Undetected chromedriver
+  - Patching the headless mode to not show up as headless
+  - Residental proxies or virgin scraping proxies
+  - Using the SAME proxies for the same account
+  - Create accounts with a GMail or an iCloud account
+  - Add a phone number to the account
+  - Do not follow and watch only one person
+  - Add additional ways to enter trovo.live
+  - If you see RECaptcha just change the proxy, it is dead.
 
 
 ## DO NOT USE / SELL / REDISTRIBUTE 
