@@ -2,7 +2,7 @@
 
 ## UPDATE
 
-This type of bot has been fixed for Trovo. I have recieved lot's of feedback about the bot. 
+This type of bot has been fixed for Trovo. I have recieved lot's of feedback about the bot and came to a conclusion: 
 
 What has been detected:
 
