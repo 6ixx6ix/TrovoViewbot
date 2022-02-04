@@ -2,8 +2,6 @@
 
 ## UPDATE
 
-This type of bot has been fixed for Trovo. I have recieved lot's of feedback about the bot and came to a conclusion: 
-
 What has been detected:
 
   - Selenium
@@ -14,7 +12,7 @@ What has been detected:
 New ways to circumvent bot security:
   
   - Undetected chromedriver
-  - Patching the headless mode to not show up as headless
+  - DO NOT USE HEADLESS MODE ( It does not prevent DNS leaks and other stuff that will easily ban your accounts or not show legit watch time)
   - Residental proxies or virgin scraping proxies
   - Using the SAME proxies for the same account
   - Create accounts with a GMail or an iCloud account
