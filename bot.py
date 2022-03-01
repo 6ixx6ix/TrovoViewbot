@@ -69,7 +69,7 @@ def BotLogic(proxy,cookie,chatEnabled=0,URL="https://www.trovo.live/",DIV_URL="h
     options.add_argument(f'user-agent={user_agent}')
     options.add_argument("--disable-application-cache")
     options.add_argument("--disable-dev-shm-usage")
-    options.headless = True
+    options.headless = False
     options.add_argument("--log-level=3")
     options.add_argument("--mute-audio")
 
