@@ -2,6 +2,8 @@
 
 ## UPDATE
 
+#### Released the full version on the other branch! Go check it out.
+
 What has been detected:
 
   - Selenium
