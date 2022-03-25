@@ -34,7 +34,7 @@ def Main():
 
 def WelcomeMessage():
     os.system("cls")
-    print("Trovo viewbot.")
+    print("Trovo viewBOTv2 - By: 0xDEAD team.")
 def StepSelector():
     print("\nPlease select an option from below:\n")
     selection = input("start: Starts the bot.\nconfig: launches the configurator.\n$ ")
