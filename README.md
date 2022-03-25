@@ -2,7 +2,7 @@
 
 ## Cookie note
 
-Cookies might be baned, signed out of or just dead. Try them out if you want but I suggest making your own with cookie monster. [https://github.com/IgrutinovicL/Cookie-monster](https://github.com/IgrutinovicL/Cookie-monster)
+Cookies might be banned, signed out of or just dead. Try them out if you want but I suggest making your own with cookie monster. [https://github.com/IgrutinovicL/Cookie-monster](https://github.com/IgrutinovicL/Cookie-monster)
 
 ## UPDATE
 
