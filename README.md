@@ -1,16 +1,12 @@
 # TrovoViewbot
 
-## Full directory branch
-
-[Use this branch for now](https://github.com/IgrutinovicL/TrovoViewbot/tree/full_directory)
-
 ## Cookie note
 
 Cookies might be banned, signed out of or just dead. Try them out if you want but I suggest making your own with cookie monster. [https://github.com/IgrutinovicL/Cookie-monster](https://github.com/IgrutinovicL/Cookie-monster)
 
 ## UPDATE
 
-#### Released the full version on the other branch! Go check it out.
+I added about 11K proxies for free.
 
 ## How to use?
 1. Get some cookies with Cookie-monster
