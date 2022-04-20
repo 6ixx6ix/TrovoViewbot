@@ -7,6 +7,8 @@ Cookies might be banned, signed out of or just dead. Try them out if you want bu
 ## UPDATE
 
 I added about 11K proxies for free.
+Before starting the bot please download all the required libraries. ( pip install -r requirements.txt )
+
 
 ## How to use?
 1. Get some cookies with Cookie-monster
