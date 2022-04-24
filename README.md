@@ -14,9 +14,9 @@ Before starting the bot please download all the required libraries. ( pip instal
 ## How to use?
 1. Get some cookies with Cookie-monster
 2. Before starting the bot place the cookies in the active_cookies directory
-3. Check current chrome version. ( About chrome )
-4. Download selenium version that your chrome supports
-5. Place that .exe file you got into the root directory of the script. ( Where bot.py is)
+3. ~Check current chrome version. ( About chrome )~
+4. ~Download selenium version that your chrome supports~
+5. ~Place that .exe file you got into the root directory of the script. ( Where bot.py is)~
 6. Be sure to have at least one working proxy in proxies.txt file.
 7. Start the bot and enter the setup mode.
 8. Do not choose more bots than the number of cookies you have.
