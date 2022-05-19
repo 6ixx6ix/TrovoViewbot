@@ -6,7 +6,8 @@ Cookies might be banned, signed out of or just dead. Try them out if you want bu
 
 ## UPDATE
 
-I added about 11K proxies for free.
+PRIVATE PROXIES FROM 99% OF PROXY PROVIDERS ARE BANNED, DETECTED ON TROVO, TWITCH, YT. 
+If you want to use this bot be prepared to drop at least $1k on residential proxies.
 
 Before starting the bot please download all the required libraries. ( pip install -r requirements.txt )
 
