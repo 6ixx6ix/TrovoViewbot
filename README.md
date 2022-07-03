@@ -5,7 +5,7 @@
 Cookies might be banned, signed out of or just dead. Try them out if you want but I suggest making your own with cookie monster. 
 ~[https://github.com/IgrutinovicL/Cookie-monster](https://github.com/IgrutinovicL/Cookie-monster)~ 
 
-New and improved cookie monster will be available soon
+~New and improved cookie monster will be available soon~ ( no time nor interest in updating, making cookie monster or this repo. )
 
 ## UPDATE
 
