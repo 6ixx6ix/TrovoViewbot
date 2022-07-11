@@ -1,11 +1,16 @@
 # TrovoViewbot
 
+## No time nor interest in updating, making cookie monster or this repo. 
+
+If you wish to use the bot fix it yourself, don't ask me stupid questions on how to start it or how to use it. GitHub is a platform for programmers. If you don't know how to program gtfo
+
+
 ## Cookie note
 
 Cookies might be banned, signed out of or just dead. Try them out if you want but I suggest making your own with cookie monster. 
 ~[https://github.com/IgrutinovicL/Cookie-monster](https://github.com/IgrutinovicL/Cookie-monster)~ 
 
-~New and improved cookie monster will be available soon~ ( no time nor interest in updating, making cookie monster or this repo. )
+~New and improved cookie monster will be available soon~ 
 
 ## UPDATE
 
